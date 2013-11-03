@@ -1,0 +1,87 @@
+/*******************************
+            Global
+*******************************/
+
+html,
+body {
+  font-size: 15px;
+  height: 100%;
+}
+
+body {
+  font-family: "Open Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+  margin: 0px;
+  padding: 0px;
+  color: #555555;
+  text-rendering: optimizeLegibility;
+  min-width: 320px;
+}
+
+.ui.header {
+  font-family: 'Source Sans Pro', "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+/*******************************
+            Global
+*******************************/
+
+.ui.menu {
+  margin-bottom: 0;
+  position: fixed;
+  width: 100%;
+}
+
+.ui.menu .item .icon {
+  color: #FFF;
+}
+
+.ui.grid .column .column {
+  text-align: center;
+}
+
+.ui.grid {
+  height: 100%;
+}
+
+.slide {
+  height: 100%;
+}
+
+.ui.grid > .row {
+  margin-top: 0;
+}
+
+/*******************************
+            Slides
+*******************************/
+
+.slide.one {
+  background-color: rgba(27, 47, 68, 1);
+}
+
+.slide.two {
+  background-color: rgba(238, 236, 236, 1);
+  height: 100%;
+}
+
+.slide.three {
+  background-color: rgba(238, 158, 54, 1);
+  height: 100%;
+}
+
+.slide.four {
+  background-color: rgba(157, 28, 30, 1);
+  height: 100%;
+}
+
+.slide.five {
+  background-color: rgba(84, 15, 16, 1);;
+  height: 100%;
+}
+
+
+/*rgba(27, 47, 68, 1);
+rgba(238, 236, 236, 1);
+rgba(238, 158, 54, 1);
+rgba(157, 28, 30, 1);
+rgba(84, 15, 16, 1);*/
