@@ -58,6 +58,18 @@ body {
   text-decoration: none;
 }
 
+@media (min-width:771px) and (max-width: 881px) {
+  .content {
+    top: 30%;
+    margin-left: -188px;
+  }
+
+  .information {
+    margin-left: 0;
+  }
+}
+
+
 @media (max-width: 399px) {
   .content {
     margin-left: 0;
